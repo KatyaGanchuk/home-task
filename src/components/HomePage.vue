@@ -3,23 +3,10 @@
         <div class="container">
             <img src="../assets/katyag.jpg" class="img" >
             <h1>HELLO!</h1>
-            <h1 class="intro-text"><span class="lead" id="typed">I am a web developer! </span></h1>
+            <h1  id="about-me" class="intro-text"><span class="lead" id="typed">I am a web developer! </span></h1>
             <span class="continue"><a href="#about-me"><i class="fa fa-angle-down"></i></a></span>
         </div>
     </div>
-
-<!-- <div id="background-wrap">
-    <div class="bubble x1"></div>
-    <div class="bubble x2"></div>
-    <div class="bubble x3"></div>
-    <div class="bubble x4"></div>
-    <div class="bubble x5"></div>
-    <div class="bubble x6"></div>
-    <div class="bubble x7"></div>
-    <div class="bubble x8"></div>
-    <div class="bubble x9"></div>
-    <div class="bubble x10"></div>
-</div> -->
 </template>
 
 <script>
@@ -30,7 +17,6 @@ export default {
 
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 #nc-main {
     position: relative;
@@ -171,7 +157,7 @@ h1.intro-text {
     }
 }
 
-/* code for animated blinking cursor */
+
 #typed-cursor {
     opacity: 1;
     font-size: 40px;

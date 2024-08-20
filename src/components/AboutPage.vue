@@ -1,5 +1,5 @@
 <template>
-<div class="container" id="about-me">
+<div class="container">
             <div class="row">
             </div>
                 <div class="col-md-12 col-lg-offset-2">
@@ -19,7 +19,7 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+
 <style scoped>
 p {
   animation-duration: 3s;
