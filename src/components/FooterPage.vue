@@ -33,7 +33,7 @@
             <!-- Кнопка для завантаження резюме -->
             <div class="text-center mt-3">
               <a href="../assets/CV.pdf" class="btn btn-primary btn-lg" download>
-                <i class="fa fa-download"></i> Download Resume
+                <i class="fa fa-download"></i> Download CV
               </a>
             </div>
           </div>
